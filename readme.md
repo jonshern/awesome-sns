@@ -25,6 +25,8 @@ These are topics owned and updated by AWS.
 |[IP Ranges](http://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html)| `arn:aws:sns:us-east-1:806199016981:AmazonIpSpaceChanged`| [Event](Events.md#amazon-ip-space-changed)|
 | [Price Change SNS](http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/price-notification.html)| `arn:aws:sns:us-east-1:278350005181:price-list-api`|  [Event](Events.md#price-list-api) |
 | [Daily Aggregated Price Change SNS](http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/price-notification.html)| `arn:aws:sns:us-east-1:278350005181:daily-aggregated-price-list-api`| [Event](Events.md#daily-aggregated-price-list-api) ||
+| [Updated GuardDuty Findings SNS](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_sns.html)| `arn:aws:sns:us-east-1:242987662583:GuardDutyAnnouncements`| [Event](Events.md#GuardDuty Findings Update) ||
+
 
 ### AMI Topics
 | Name | Topic | Example |
